@@ -1,0 +1,12 @@
+.div{
+    border: 10px;
+    width: 60;
+    height: 60;
+    border-color: black;
+}
+.Hi{
+    display: flex;
+    border-radius: 20;
+    border-color: black;
+    outline: 2;
+}
